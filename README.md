@@ -22,6 +22,7 @@ The primary objectives of this project are:
 ---
 
 # 🔄 Project Workflow
+Project_workflow.png
 
 The project follows a complete data analytics pipeline consisting of six major stages.
 
