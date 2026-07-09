@@ -1,7 +1,7 @@
 # 🛒 Walmart Sales Data Analysis | End-to-End Python + SQL Project
 
 ## 📌 Project Overview
-
+![workflow](Project_workflow.png)
 This project is an end-to-end data analytics solution built using **Python** and **MySQL** to analyze Walmart sales data. The objective is to demonstrate the complete data analytics workflow, starting from extracting raw data, cleaning and transforming it using Python, loading it into a MySQL database, and finally performing SQL analysis to generate meaningful business insights.
 
 The project follows a real-world **ETL (Extract, Transform, Load)** pipeline and showcases how Python and SQL work together to solve business problems in the retail industry. It highlights practical skills in data cleaning, database management, SQL querying, and business analytics.
